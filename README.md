@@ -12,16 +12,16 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lorenzo-bulosan&count_private=true&show_icons=true"/>
 </p>
 
-<summary>Biography</summary>  
+### Biography  
 
-- 🌏 Lives in **London, UK**
 - 👨‍💻 Software Engineer @ **Sparta Global & Shell Energy**
-- 🛠 Read **MSc. Human Biological Robotics** ('19) from **[Imperial College London](https://www.imperial.ac.uk/study/pg/bioengineering/human-and-biological-robotics-msc/)** 
+- 🌏 Lives in **London, UK**
+- 🛠 Studied **MSc. Human Biological Robotics** ('19) from **[Imperial College London](https://www.imperial.ac.uk/study/pg/bioengineering/human-and-biological-robotics-msc/)** 
 & **BEng. Biomedical Engineering (Hons.)** ('18) from **[City, University of London](https://www.city.ac.uk/prospective-students/courses/undergraduate/biomedical-engineering)**
-- 🧠 Learning: **Web3**
+- 🧠 Learning: **Web3** & **GANs**
 - 📖 Reading: **[The Name Of The Wind - Patrick Rothfuss](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind)**
 - 🎧 Listening: **[Todo De Ti - Rauw Alejandro](https://www.youtube.com/watch?v=Tr5bEXN6mvE)**
-- ❝❞ Favourite quote
+- ❝❞ Favourite quote:
 > "The virtue of angels is that they cannot deteriorate; their flaw is that they cannot improve. 
 Man's flaw is that he can deteriorate; and his virtue is that he can improve." ― Hasidic Saying
 
