@@ -50,12 +50,8 @@ Man's flaw is that he can deteriorate; and his virtue is that he can improve." â
 <img width="10%" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg">
 
 <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-[image](https://user-images.githubusercontent.com/36127677/179400776-11eeb84e-933b-4c9e-b5f0-340ade0b1eb2.png)
+<img width="10%" src="https://msarrafi.com/img/skills/react-native.png">
 <img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
 
 </details> 
-
-<!-- Activity graph -->
-
-[comment]: <> (<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=mughees-asif&theme=github&bg_color=ffffff00&color=006400&point=00A14A&line=BAFF5E&custom_title=Commit%20Activity&hide_border=true&area=true" alt="Mughees's monthly coding activity" /></p>)
