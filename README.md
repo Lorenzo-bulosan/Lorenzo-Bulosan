@@ -27,31 +27,45 @@ Man's flaw is that he can deteriorate; and his virtue is that he can improve." â
 
 <details>
 
-<summary>Languages</summary>  
+<summary>Programming Languages</summary>  
 
 <img width="10%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-<img width="10%" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
+<img width="20%" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
 <img width="10%" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
 <img width="10%" src="https://cdn.worldvectorlogo.com/logos/python-4.svg">
+<img width="10%" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
+<img width="30%" src="https://1000logos.net/wp-content/uploads/2021/04/MATLAB-logo-500x281.png">
 
 </details> 
 
 <details>
 
-<summary>Technology</summary>  
-
-<img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-
+<summary>Technologies I've used</summary>  
+  
+<br/><p>For Full Stack Web Applications</p>
+<img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">
+<img width="10%" src="https://adamtheautomator.com/wp-content/uploads/2020/01/azure-pipelines.png">
 <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png">
 <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Nunit_logo_250.png">
-
-<img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">
-
-<img width="10%" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg">
-
-<img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+  
+<br/><p>For Mobile Development</p>
 <img width="10%" src="https://msarrafi.com/img/skills/react-native.png">
+<img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+  
+<br/><p>For Machine Learning</p>
 <img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
-
+  
+<br/><p>For Microcontrollers</p>
+<img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg">
+<img width="10%" src="https://seeklogo.com/images/M/mplab-x-ide-logo-B1D898D52B-seeklogo.com.png">
+  
+<br/><p>For Game Development</p>
+<img width="7%" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg">
+  
+<br/><p>Other Technologies</p>
+<img width="10%" src="https://1000logos.net/wp-content/uploads/2021/05/Trello-logo.png">
+<img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+<img width="10%" src="https://www.midshiretelecom.co.uk/wp-content/uploads/2021/09/Microsoft-Teams-Emblem-300x169.png">
+  
 </details> 
