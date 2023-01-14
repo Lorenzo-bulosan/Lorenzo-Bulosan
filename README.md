@@ -14,7 +14,7 @@
 
 ### Biography  
 
-- 👨‍💻 Software Engineer @ **Sparta Global & Shell Energy**
+- 👨‍💻 Software Engineer @ **Man Group**
 - 🌏 Lives in **London, UK**
 - 🛠 Studied **MSc. Human Biological Robotics** ('19) from **[Imperial College London](https://www.imperial.ac.uk/study/pg/bioengineering/human-and-biological-robotics-msc/)** 
 & **BEng. Biomedical Engineering (Hons.)** ('18) from **[City, University of London](https://www.city.ac.uk/prospective-students/courses/undergraduate/biomedical-engineering)**
