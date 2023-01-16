@@ -1,6 +1,12 @@
 ### Hi there, Lorenzo here 👋
 
-[![Lorenzo Bulosan Github](https://github-readme-stats.vercel.app/api?username=lorenzo-bulosan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+
+[![Lorenzo Bulosan Github](https://github-readme-stats.vercel.app/api?username=lorenzo-bulosan&count_private=true&show_icons=true)]
+(https://github.com/anuraghazra/github-readme-stats)
+
+-->
+
 
 <!-- another option of stats but same as above
 <p align="left">
